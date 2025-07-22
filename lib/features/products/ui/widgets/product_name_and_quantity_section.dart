@@ -1,4 +1,4 @@
-import 'package:crafty_bay_ecommerce/features/products/controller/product_details_controller.dart';
+import 'package:eco_mart/features/products/controller/product_details_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import '../../../../app/app_colors.dart';

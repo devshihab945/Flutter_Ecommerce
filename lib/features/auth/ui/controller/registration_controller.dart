@@ -1,8 +1,8 @@
-import 'package:crafty_bay_ecommerce/app/app.dart';
-import 'package:crafty_bay_ecommerce/app/urls.dart';
-import 'package:crafty_bay_ecommerce/core/service/network/network_client.dart';
-import 'package:crafty_bay_ecommerce/features/auth/data/models/registration_request_model.dart';
-import 'package:crafty_bay_ecommerce/features/auth/ui/screens/otp_verification_screen.dart';
+import 'package:eco_mart/app/app.dart';
+import 'package:eco_mart/app/urls.dart';
+import 'package:eco_mart/core/service/network/network_client.dart';
+import 'package:eco_mart/features/auth/data/models/registration_request_model.dart';
+import 'package:eco_mart/features/auth/ui/screens/otp_verification_screen.dart';
 import 'package:get/get.dart';
 import 'package:logger/logger.dart';
 

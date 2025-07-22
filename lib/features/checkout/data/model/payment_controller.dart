@@ -1,8 +1,8 @@
 import 'dart:math';
-import 'package:crafty_bay_ecommerce/app/app.dart';
-import 'package:crafty_bay_ecommerce/env.dart';
-import 'package:crafty_bay_ecommerce/features/cert/controller/get_cart_product_controller.dart';
-import 'package:crafty_bay_ecommerce/features/checkout/data/model/place_order_controller.dart';
+import 'package:eco_mart/app/app.dart';
+import 'package:eco_mart/env.dart';
+import 'package:eco_mart/features/cert/controller/get_cart_product_controller.dart';
+import 'package:eco_mart/features/checkout/data/model/place_order_controller.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_sslcommerz/model/SSLCSdkType.dart';

@@ -1,6 +1,6 @@
-import 'package:crafty_bay_ecommerce/app/urls.dart';
-import 'package:crafty_bay_ecommerce/core/service/network/network_client.dart';
-import 'package:crafty_bay_ecommerce/features/cert/data/model/cart_checkout_model.dart';
+import 'package:eco_mart/app/urls.dart';
+import 'package:eco_mart/core/service/network/network_client.dart';
+import 'package:eco_mart/features/cert/data/model/cart_checkout_model.dart';
 import 'package:get/get.dart';
 import 'package:logger/logger.dart';
 

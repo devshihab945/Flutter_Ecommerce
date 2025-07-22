@@ -1,6 +1,6 @@
-import 'package:crafty_bay_ecommerce/app/app_colors.dart';
-import 'package:crafty_bay_ecommerce/features/common/loading_widgets/home_carousel_shimmer.dart';
-import 'package:crafty_bay_ecommerce/features/common/loading_widgets/product_card_shimmer.dart';
+import 'package:eco_mart/app/app_colors.dart';
+import 'package:eco_mart/features/common/loading_widgets/home_carousel_shimmer.dart';
+import 'package:eco_mart/features/common/loading_widgets/product_card_shimmer.dart';
 import 'package:flutter/material.dart';
 import 'package:loading_animation_widget/loading_animation_widget.dart';
 

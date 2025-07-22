@@ -1,5 +1,5 @@
-import 'package:crafty_bay_ecommerce/core/service/network/network_client.dart';
-import 'package:crafty_bay_ecommerce/features/home/data/model/home_slider_model.dart';
+import 'package:eco_mart/core/service/network/network_client.dart';
+import 'package:eco_mart/features/home/data/model/home_slider_model.dart';
 import 'package:get/get.dart';
 
 import '../../../app/urls.dart';

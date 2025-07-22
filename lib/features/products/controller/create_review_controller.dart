@@ -1,5 +1,5 @@
-import 'package:crafty_bay_ecommerce/app/urls.dart';
-import 'package:crafty_bay_ecommerce/core/service/network/network_client.dart';
+import 'package:eco_mart/app/urls.dart';
+import 'package:eco_mart/core/service/network/network_client.dart';
 import 'package:get/get.dart';
 
 class CreateReviewController extends GetxController{

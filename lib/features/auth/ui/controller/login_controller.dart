@@ -1,10 +1,10 @@
-import 'package:crafty_bay_ecommerce/app/app.dart';
-import 'package:crafty_bay_ecommerce/app/urls.dart';
-import 'package:crafty_bay_ecommerce/core/service/network/network_client.dart';
-import 'package:crafty_bay_ecommerce/features/auth/data/models/login_model.dart';
-import 'package:crafty_bay_ecommerce/features/auth/ui/controller/auth_controller.dart';
-import 'package:crafty_bay_ecommerce/features/common/ui/screens/main_bottom_nav_screen.dart';
-import 'package:crafty_bay_ecommerce/features/home/ui/screens/home_screen.dart';
+import 'package:eco_mart/app/app.dart';
+import 'package:eco_mart/app/urls.dart';
+import 'package:eco_mart/core/service/network/network_client.dart';
+import 'package:eco_mart/features/auth/data/models/login_model.dart';
+import 'package:eco_mart/features/auth/ui/controller/auth_controller.dart';
+import 'package:eco_mart/features/common/ui/screens/main_bottom_nav_screen.dart';
+import 'package:eco_mart/features/home/ui/screens/home_screen.dart';
 import 'package:get/get.dart';
 import 'package:logger/logger.dart';
 

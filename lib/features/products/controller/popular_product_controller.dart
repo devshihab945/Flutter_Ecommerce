@@ -1,4 +1,4 @@
-import 'package:crafty_bay_ecommerce/features/products/data/model/product_card_model.dart';
+import 'package:eco_mart/features/products/data/model/product_card_model.dart';
 import 'package:get/get.dart';
 import 'package:logger/logger.dart';
 import '../../../app/urls.dart';

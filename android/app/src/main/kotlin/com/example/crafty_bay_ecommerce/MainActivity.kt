@@ -1,4 +1,4 @@
-package com.example.crafty_bay_ecommerce
+package com.example.eco_mart
 
 import io.flutter.embedding.android.FlutterActivity
 

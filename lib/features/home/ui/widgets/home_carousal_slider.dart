@@ -1,6 +1,6 @@
 import 'package:carousel_slider/carousel_slider.dart';
-import 'package:crafty_bay_ecommerce/features/common/loading_widgets/loading_widget.dart';
-import 'package:crafty_bay_ecommerce/features/home/controller/home_slider_controller.dart';
+import 'package:eco_mart/features/common/loading_widgets/loading_widget.dart';
+import 'package:eco_mart/features/home/controller/home_slider_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

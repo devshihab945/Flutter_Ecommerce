@@ -1,7 +1,7 @@
-import 'package:crafty_bay_ecommerce/features/auth/ui/controller/main_bottom_nav_controller.dart';
-import 'package:crafty_bay_ecommerce/features/common/loading_widgets/loading_widget.dart';
-import 'package:crafty_bay_ecommerce/features/common/ui/widgets/product_card.dart';
-import 'package:crafty_bay_ecommerce/features/wish_list/controller/wish_list_controller.dart';
+import 'package:eco_mart/features/auth/ui/controller/main_bottom_nav_controller.dart';
+import 'package:eco_mart/features/common/loading_widgets/loading_widget.dart';
+import 'package:eco_mart/features/common/ui/widgets/product_card.dart';
+import 'package:eco_mart/features/wish_list/controller/wish_list_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

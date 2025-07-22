@@ -1,8 +1,8 @@
 import 'dart:async';
-import 'package:crafty_bay_ecommerce/app/app.dart';
-import 'package:crafty_bay_ecommerce/app/urls.dart';
-import 'package:crafty_bay_ecommerce/core/service/network/network_client.dart';
-import 'package:crafty_bay_ecommerce/features/auth/ui/screens/login_screen.dart';
+import 'package:eco_mart/app/app.dart';
+import 'package:eco_mart/app/urls.dart';
+import 'package:eco_mart/core/service/network/network_client.dart';
+import 'package:eco_mart/features/auth/ui/screens/login_screen.dart';
 import 'package:get/get.dart';
 
 class OtpController extends GetxController {

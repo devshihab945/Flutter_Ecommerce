@@ -1,5 +1,5 @@
-import 'package:crafty_bay_ecommerce/features/cert/controller/get_cart_product_controller.dart';
-import 'package:crafty_bay_ecommerce/features/checkout/data/model/payment_controller.dart';
+import 'package:eco_mart/features/cert/controller/get_cart_product_controller.dart';
+import 'package:eco_mart/features/checkout/data/model/payment_controller.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 class PlaceOrderScreen extends StatefulWidget {

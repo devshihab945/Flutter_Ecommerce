@@ -1,7 +1,7 @@
-import 'package:crafty_bay_ecommerce/app/app_routes.dart';
-import 'package:crafty_bay_ecommerce/app/app_theme.dart';
-import 'package:crafty_bay_ecommerce/app/controller_binder.dart';
-import 'package:crafty_bay_ecommerce/features/auth/ui/screens/splash_screen.dart';
+import 'package:eco_mart/app/app_routes.dart';
+import 'package:eco_mart/app/app_theme.dart';
+import 'package:eco_mart/app/controller_binder.dart';
+import 'package:eco_mart/features/auth/ui/screens/splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';
 

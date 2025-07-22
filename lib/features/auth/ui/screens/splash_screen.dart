@@ -1,5 +1,5 @@
-import 'package:crafty_bay_ecommerce/features/common/loading_widgets/loading_widget.dart';
-import 'package:crafty_bay_ecommerce/features/common/ui/screens/main_bottom_nav_screen.dart';
+import 'package:eco_mart/features/common/loading_widgets/loading_widget.dart';
+import 'package:eco_mart/features/common/ui/screens/main_bottom_nav_screen.dart';
 import 'package:flutter/material.dart';
 
 

@@ -1,4 +1,4 @@
-# crafty_bay_ecommerce
+# eco_mart
 
 A new Flutter project.
 
